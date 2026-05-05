@@ -22,4 +22,5 @@ We evaluated the models using Classification Reports and Confusion Matrices, pri
 ## 🚀 How to Run this Project
 1. Clone this repository to your local machine.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook (`.ipynb` file) to view the code, visualisations, and model training steps.
+3. Download ISOT Fake News Dataset 
+4. Open the Jupyter Notebook (`.ipynb` file) to view the code, visualisations, and model training steps.
